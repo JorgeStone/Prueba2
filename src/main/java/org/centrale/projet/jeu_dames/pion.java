@@ -5,8 +5,8 @@ public class pion {
     int y;
 
     public pion(int x, int y) {
-        this.x = x;
-        this.y = y;
+        this.x = x+1;
+        this.y = y+1;
     }
     
 }
